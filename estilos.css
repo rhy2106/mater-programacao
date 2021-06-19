@@ -1,0 +1,16 @@
+body {
+	
+	background-color: #770077;
+}
+
+#quadro {
+	margin: auto;
+	width: 200px;
+	height: 200px;
+	background-color: #FF0000;
+}
+
+#quadro p {
+	font-size: 30px;
+	color: #CCFF00;
+}
